@@ -1,0 +1,15 @@
+/home/et12alumno/06-05-2025/c#/Tabla/bin/Debug/net8.0/Tabla
+/home/et12alumno/06-05-2025/c#/Tabla/bin/Debug/net8.0/Tabla.deps.json
+/home/et12alumno/06-05-2025/c#/Tabla/bin/Debug/net8.0/Tabla.runtimeconfig.json
+/home/et12alumno/06-05-2025/c#/Tabla/bin/Debug/net8.0/Tabla.dll
+/home/et12alumno/06-05-2025/c#/Tabla/bin/Debug/net8.0/Tabla.pdb
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.AssemblyInfoInputs.cache
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.AssemblyInfo.cs
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.csproj.CoreCompileInputs.cache
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.sourcelink.json
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.dll
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/refint/Tabla.dll
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.pdb
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/Tabla.genruntimeconfig.cache
+/home/et12alumno/06-05-2025/c#/Tabla/obj/Debug/net8.0/ref/Tabla.dll
